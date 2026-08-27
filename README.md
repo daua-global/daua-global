@@ -1,4 +1,6 @@
-## Hi there 👋
+## EVOLUTION TECHNOLOGIES GLOBAL ARCTIC 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/48b69ae2-14ab-4d4a-8681-b0a441e27fed" />
 
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
