@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a65e8ada-9bf4-4fde-b73e-34ddf872be66" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f92500dc-84c3-4f03-915d-31766795e1e7" />
