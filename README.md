@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/31317844-ee77-4685-b9c7-68f49e90140f" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a39544a4-393a-4618-841a-4af4e9ac812d" />
 
 ---
 
