@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cd4db8ce-39ce-45f2-8249-49563ed639c1" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2718b46a-abc1-49a2-9f82-28ccfe432465" />
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2718b46a-abc1-49a2-9f82-28ccfe432465" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cd4db8ce-39ce-45f2-8249-49563ed639c1" />
 
 ---
 
