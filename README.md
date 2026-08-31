@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a656deb6-96a0-43de-82ce-6d3f7db0ba1d" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/61ff4590-3774-48cd-99db-97a379e61307" />
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/61ff4590-3774-48cd-99db-97a379e61307" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ca0f8839-dd8a-4e78-bad9-815a79d2d4bd" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a656deb6-96a0-43de-82ce-6d3f7db0ba1d" />
 
 ---
 
