@@ -1,4 +1,4 @@
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c33b4497-36f1-4b6d-a81b-71f9c042c241" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/656460c2-37ff-4008-bf43-b80b778da858" />
 
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c33b4497-36f1-4b6d-a81b-71f9c042c241" />
 
 ---
 
