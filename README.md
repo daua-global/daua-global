@@ -1,3 +1,5 @@
+
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4b20cbef-a790-4e14-b250-ad55123ae194" />
 
 ---
@@ -18,6 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/666e087a-c0ab-4fca-8326-2a4a3d736e85" />
 
 ---
 
