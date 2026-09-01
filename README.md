@@ -1,4 +1,4 @@
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82dc3994-610f-40b2-917a-f1511cdc073d" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/376c653e-01a2-4101-a285-e31939bd2c25" />
 
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
