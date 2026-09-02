@@ -4,46 +4,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4b20cbef-a790-4e14-b250-ad55123ae194" />
 
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/22c7570e-0ef7-4dee-b8ed-5f75cd193839" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eda32773-8e01-429f-8488-4b5d47b47a9f" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ff0ae066-1869-4174-9f9b-bdb1560fb187" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/45c27819-f4ae-4c25-96ba-1f609082b226" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0a8750e9-45ea-4240-8581-564ed67b798c" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c38b6eb-9c88-409e-83cf-671c60d381ab" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/51539cc9-46df-44a2-acf2-31ef64942647" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fc9210a-c0f3-4723-87ad-400e261141c2" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/503c80d8-8bbf-4db6-8dcc-feeb0267bfcc" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0371d8a7-e702-4aa0-8406-a442155c82c9" />
-
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
