@@ -1,3 +1,55 @@
+[polly.mp3](https://github.com/user-attachments/files/31836876/polly.mp3)
+
+---
+
+```text
+
+polly (Davada and Mariana)
+
+Verse 1
+Polly wants a cracker, but I think I should get off her first.
+I think she wants some water to put out the blowtorch.
+
+Chorus
+This is not me.
+I have a seed.
+Let me clip your dirty wings.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+I have some rope, and I have been told to promise you that I have been true.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+
+Verse 2
+Polly wants a cracker; maybe she would like some food.
+She asked me to untie her, and a chase would be nice for a few.
+
+Chorus
+This is not me.
+I have a seed.
+Let me clip your dirty wings.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+I have some rope, and I have been told to promise you that I have been true.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+
+Verse 3
+Polly said her back hurts, and she is just as bored as me.
+She caught me off my guard; it amazes me—the will of instinct.
+
+Chorus
+This is not me.
+I have a seed.
+Let me clip your dirty wings.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+I have some rope, and I have been told to promise you that I have been true.
+Let me take a ride; you cut yourself.
+You want some help, but I only please myself.
+
+---
+
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
