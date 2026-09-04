@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b823bfcf-4ba4-4f05-87be-6469065506d9" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/12ffada2-f0e0-461b-bf61-f849c7bdc1b2" />
 
 ---
 
