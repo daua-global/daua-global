@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ```text
 
-Polly (Davada Zaita and Mariana Zaita) Gift for Dua Lipa and Rina Lipa
+Polly (Davada Zaita and Mariana Zaita) Gift Music for Dua Lipa and Rina Lipa
 
 Verse 1
 Polly wants a cracker, but I think I should get off her first.
