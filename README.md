@@ -48,8 +48,6 @@ I have some rope, and I have been told to promise you that I have been true.
 Let me take a ride; you cut yourself.
 You want some help, but I only please myself.
 
----
-
 <!--
 **evotecharctic/evotecharctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
