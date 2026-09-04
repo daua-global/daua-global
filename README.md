@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ```text
 
-polly (Davada and Mariana) gift for Dua Lipa
+polly (Davada and Mariana) Gift for Dua Lipa and Rina lipa
 
 Verse 1
 Polly wants a cracker, but I think I should get off her first.
