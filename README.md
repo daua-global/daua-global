@@ -67,6 +67,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ee47867-a81c-4f18-a850-efa143699738" />
+
+---
+
 [polly.mp3](https://github.com/user-attachments/files/31836876/polly.mp3)
 
 ---
