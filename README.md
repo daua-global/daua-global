@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/db374452-1916-4fd0-9e93-a1b0edd5f105" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c04bed6a-9d78-4967-bafd-b401bbf0f83c" />
