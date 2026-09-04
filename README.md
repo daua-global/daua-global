@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dfa25798-1bec-47e3-b9bf-ef0f110a6262" />
+
+---
+
 [polly.mp3](https://github.com/user-attachments/files/31836876/polly.mp3)
 
 ---
