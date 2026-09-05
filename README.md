@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2a958827-b573-4f64-aa9d-66bc15441305" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/546e1352-c74d-4856-b2a6-2658175dfbbb" />
 
 ---
