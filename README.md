@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ab7cee5f-bab2-4476-a83c-6efeff79ba55" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/99e21340-5f43-4c00-bdac-7602bc26820a" />
 
 ---
